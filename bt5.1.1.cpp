@@ -7,7 +7,6 @@
 //	scanf_s("%d", &n);
 //	for (int i = 0; i<n; i++)
 //	{
-//		printf("nhap a[%d]= ", i); scanf_s("%d", &a[i]);
 //	}
 //}
 //void XuatMang(int a[], int n)
