@@ -1,5 +1,6 @@
 //#include<stdio.h>
 //#include<conio.h>
+con heo kiu ét ét
 ////input array
 //void NhapMang(int a[], int &n)
 //{
